@@ -1,6 +1,6 @@
 {
   "name": "@babacoder/react-native-gradients",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A React Native package for linear and radial gradients",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
